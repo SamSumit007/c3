@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.list_container{
+  width: 80%;
+  margin: auto;
+}
+.employee_card{
+  display: grid;
+margin: auto;
+}
